@@ -1,13 +1,13 @@
 {
-    "name": "pixi-startproject",
+    "name": "pixijs_project",
     "version": "1.0.0",
-    "description": "Dit is een startproject voor het werken met PixiJS, Typescript en OOP. Je kan deze repository downloaden en vervolgens installeren met:",
+    "description": "First pixijs_project",
     "scripts": {
         "start": "parcel src/index.html --dist-dir docs",
         "build": "parcel build src/index.html --dist-dir docs --public-url ./"
     },
     "keywords": [],
-    "author": "",
+    "author": "Joana",
     "license": "ISC",
     "dependencies": {
         "@types/greensock": "^1.15.32",
